@@ -1,0 +1,2 @@
+// Copyright 2020 The protobuf-tools Authors.
+// SPDX-License-Identifier: BSD-3-Clause
